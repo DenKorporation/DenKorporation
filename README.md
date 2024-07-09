@@ -3,7 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/denis-kononchuk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denis-kononchuk/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/denis-kononchuk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denis-kononchuk/" height="30" width="40" /></a>
+<a href="https://t.me/den_kononchuk" target="blank"><img align="center" src="https://github.com/DenKorporation/DenKorporation/blob/main/telegram.svg" alt="https://t.me/den_kononchuk" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
